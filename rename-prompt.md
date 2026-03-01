@@ -16,31 +16,31 @@ Files and context:
     }
   },
   {
-    "path": "blog.html",
-    "context": {
-      "title": "",
-      "first_heading": "BLOG"
-    }
-  },
-  {
-    "path": "blog_delta-lake-architecture--simplifying-data-engineering---analytics-needs.html",
+    "path": "blog-delta-lake-architecture-simplifying-data-engineering-analytics-needs.html",
     "context": {
       "title": "Delta Lake Architecture: Simplifying Data Engineering & Analytics Needs",
       "first_heading": "Delta Lake Architecture: Simplifying Data Engineering & Analytics Needs"
     }
   },
   {
-    "path": "blog_modernize-your-etl-processes-to-unleash-better-business-intelligence.html",
+    "path": "blog-modernize-your-etl-processes-to-unleash-better-business-intelligence.html",
     "context": {
       "title": "Modernize Your ETL Processes To Unleash Better Business Intelligence",
       "first_heading": "Modernize Your ETL Processes To Unleash Better Business Intelligence"
     }
   },
   {
-    "path": "blog_snowflake-vs-azure-synapse-analytics--the-battle-of-cloud-data-warehouses.html",
+    "path": "blog-snowflake-vs-azure-synapse-analytics-the-battle-of-cloud-data-warehouses.html",
     "context": {
       "title": "Snowflake Vs Azure Synapse Analytics: The Battle of Cloud Data Warehouses",
       "first_heading": "Snowflake Vs Azure Synapse Analytics: The Battle of Cloud Data Warehouses"
+    }
+  },
+  {
+    "path": "blog.html",
+    "context": {
+      "title": "",
+      "first_heading": "BLOG"
     }
   },
   {
@@ -80,43 +80,96 @@ Files and context:
     }
   },
   {
-    "path": "imgs/0662588f35796cafae9de4b9d45d5f66.webp",
+    "path": "imgs/04cd26a7e71848a5ebf8e88a2669b63b.webp",
     "context": {
       "refs": []
+    }
+  },
+  {
+    "path": "imgs/0662588f35796cafae9de4b9d45d5f66.webp",
+    "context": {
+      "refs": [
+        {
+          "alt": "",
+          "title": ""
+        }
+      ]
     }
   },
   {
     "path": "imgs/081ed4ee76b1ab02e13798d3a0b9b6b1.webp",
     "context": {
-      "refs": []
+      "refs": [
+        {
+          "alt": "Telco",
+          "title": ""
+        }
+      ]
     }
   },
   {
     "path": "imgs/086ebbe92f72022c4afc59aad043dfc3.webp",
     "context": {
-      "refs": []
+      "refs": [
+        {
+          "alt": "DATA CLOUD SOLUTIONS",
+          "title": ""
+        }
+      ]
     }
   },
   {
     "path": "imgs/0e816e4a7ec4a2fd76c751675e605d1e.webp",
     "context": {
-      "refs": []
+      "refs": [
+        {
+          "alt": "",
+          "title": ""
+        }
+      ]
     }
   },
   {
     "path": "imgs/1939407028ddfd3323b8caff5cd356b4.webp",
     "context": {
-      "refs": []
+      "refs": [
+        {
+          "alt": "Modernize Your ETL Processes To Unleash Better Business Intelligence",
+          "title": ""
+        }
+      ]
     }
   },
   {
     "path": "imgs/1a4d12e572bb5bcc0ca67f26783807bb.webp",
     "context": {
-      "refs": []
+      "refs": [
+        {
+          "alt": "",
+          "title": ""
+        }
+      ]
     }
   },
   {
     "path": "imgs/1cfd1ea2b0512b69e1be7fc81a34c9b6.webp",
+    "context": {
+      "refs": [
+        {
+          "alt": "",
+          "title": ""
+        }
+      ]
+    }
+  },
+  {
+    "path": "imgs/371cd9c4752fd50d6a72cd0cba994035.svg",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/3e39582987706d41db721482687f8a62.svg",
     "context": {
       "refs": []
     }
@@ -124,47 +177,99 @@ Files and context:
   {
     "path": "imgs/428ff08473658518df27734b3ff9dbcb.webp",
     "context": {
-      "refs": []
+      "refs": [
+        {
+          "alt": "",
+          "title": ""
+        }
+      ]
     }
   },
   {
     "path": "imgs/4624dfb91599a4888150b0779466da71.webp",
     "context": {
-      "refs": []
+      "refs": [
+        {
+          "alt": "Healthcare",
+          "title": ""
+        }
+      ]
     }
   },
   {
     "path": "imgs/5496d2d71072faa2a8b8170b090b54eb.webp",
     "context": {
-      "refs": []
+      "refs": [
+        {
+          "alt": "",
+          "title": ""
+        }
+      ]
     }
   },
   {
     "path": "imgs/56f8f71a7b4a2f780cbac96ad924f5b0.webp",
     "context": {
-      "refs": []
+      "refs": [
+        {
+          "alt": "MACHINE LEARNING",
+          "title": ""
+        }
+      ]
     }
   },
   {
     "path": "imgs/5b480ad4a9480197f2fcfa373bfda31c.webp",
     "context": {
-      "refs": []
+      "refs": [
+        {
+          "alt": "",
+          "title": ""
+        }
+      ]
     }
   },
   {
     "path": "imgs/616d0ab9110c399c62ac40fc511d240b.webp",
     "context": {
-      "refs": []
+      "refs": [
+        {
+          "alt": "",
+          "title": ""
+        }
+      ]
     }
   },
   {
     "path": "imgs/61708b64b609aa69dfd56c6b142d3f16.webp",
     "context": {
-      "refs": []
+      "refs": [
+        {
+          "alt": "",
+          "title": ""
+        }
+      ]
     }
   },
   {
     "path": "imgs/6b5e0519f275a12f75ce10f658b40c50.webp",
+    "context": {
+      "refs": [
+        {
+          "alt": "DATA SCIENCE & ANALYTICS",
+          "title": ""
+        }
+      ]
+    }
+  },
+  {
+    "path": "imgs/6c50279bad5789928bb870a704fb7784.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/778ce088b476a3490d58caa02448e0e9.svg",
     "context": {
       "refs": []
     }
@@ -172,23 +277,49 @@ Files and context:
   {
     "path": "imgs/8c6c0003860173d9f5d367f09d13cdce.webp",
     "context": {
-      "refs": []
+      "refs": [
+        {
+          "alt": "",
+          "title": ""
+        }
+      ]
     }
   },
   {
     "path": "imgs/8eaa0515f704117f4b957160ae5ae474.webp",
     "context": {
-      "refs": []
+      "refs": [
+        {
+          "alt": "",
+          "title": ""
+        }
+      ]
     }
   },
   {
     "path": "imgs/975b5ed50141c59b88b07859560d9d87.webp",
     "context": {
-      "refs": []
+      "refs": [
+        {
+          "alt": "",
+          "title": ""
+        }
+      ]
     }
   },
   {
     "path": "imgs/97ac8ae5422276ff368f44ced68c8811.webp",
+    "context": {
+      "refs": [
+        {
+          "alt": "Delta Lake Architecture: Simplifying Data Engineering & Analytics Needs",
+          "title": ""
+        }
+      ]
+    }
+  },
+  {
+    "path": "imgs/98d048157833e846710898487cf450dc.svg",
     "context": {
       "refs": []
     }
@@ -196,17 +327,38 @@ Files and context:
   {
     "path": "imgs/98fe94b223f2ea145abbd115ddb49d88.webp",
     "context": {
-      "refs": []
+      "refs": [
+        {
+          "alt": "",
+          "title": ""
+        }
+      ]
     }
   },
   {
     "path": "imgs/9fd8819c36dcce239cb6d8afd774cb4b.webp",
     "context": {
-      "refs": []
+      "refs": [
+        {
+          "alt": "",
+          "title": ""
+        }
+      ]
     }
   },
   {
     "path": "imgs/a1d4754c88b792a93a17c5a336381e1a.webp",
+    "context": {
+      "refs": [
+        {
+          "alt": "DATA ENGINEERING",
+          "title": ""
+        }
+      ]
+    }
+  },
+  {
+    "path": "imgs/a490f104164a21f043b30ed302f2b591.svg",
     "context": {
       "refs": []
     }
@@ -214,17 +366,62 @@ Files and context:
   {
     "path": "imgs/a8214cd7bfa50939fa38a96af55cb903.webp",
     "context": {
-      "refs": []
+      "refs": [
+        {
+          "alt": "logo",
+          "title": ""
+        },
+        {
+          "alt": "logo",
+          "title": ""
+        },
+        {
+          "alt": "logo",
+          "title": ""
+        },
+        {
+          "alt": "logo",
+          "title": ""
+        },
+        {
+          "alt": "",
+          "title": ""
+        },
+        {
+          "alt": "logo",
+          "title": ""
+        },
+        {
+          "alt": "",
+          "title": ""
+        }
+      ]
     }
   },
   {
     "path": "imgs/a861ef6fd2ed2f922050e8c1f905c3e2.webp",
     "context": {
-      "refs": []
+      "refs": [
+        {
+          "alt": "",
+          "title": ""
+        }
+      ]
     }
   },
   {
     "path": "imgs/aed8f2bfe48571bd08f5720d48ed712d.webp",
+    "context": {
+      "refs": [
+        {
+          "alt": "",
+          "title": ""
+        }
+      ]
+    }
+  },
+  {
+    "path": "imgs/b0dc1228f2c289cb6d03084943206cf0.webp",
     "context": {
       "refs": []
     }
@@ -232,11 +429,45 @@ Files and context:
   {
     "path": "imgs/b14dc4e1f62a835800d1e376cc57269d.webp",
     "context": {
-      "refs": []
+      "refs": [
+        {
+          "alt": "",
+          "title": ""
+        }
+      ]
     }
   },
   {
     "path": "imgs/b4ab02ca35ffc194c6b44151fc6dcfb4.webp",
+    "context": {
+      "refs": [
+        {
+          "alt": "",
+          "title": ""
+        }
+      ]
+    }
+  },
+  {
+    "path": "imgs/b5721aca08135b6e061e17fae4016faa.webp",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/b9832ce1e3dabce86326d05cacb89f43.svg",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/bc26b60905a3cde8bd01d4872187a47a.svg",
+    "context": {
+      "refs": []
+    }
+  },
+  {
+    "path": "imgs/be7b3ee99b12fa939c35a0e1c9b6c367.svg",
     "context": {
       "refs": []
     }
@@ -244,13 +475,29 @@ Files and context:
   {
     "path": "imgs/bf24313416505b3afc839e36db5f63ca.webp",
     "context": {
+      "refs": [
+        {
+          "alt": "",
+          "title": ""
+        }
+      ]
+    }
+  },
+  {
+    "path": "imgs/c1ec2177520de19f711646ff95f865e6.svg",
+    "context": {
       "refs": []
     }
   },
   {
     "path": "imgs/c2e8d2f659492347f98b23605f3dd019.webp",
     "context": {
-      "refs": []
+      "refs": [
+        {
+          "alt": "",
+          "title": ""
+        }
+      ]
     }
   },
   {
@@ -262,43 +509,78 @@ Files and context:
   {
     "path": "imgs/ccb4083622fad519326702073ea6e47a.webp",
     "context": {
-      "refs": []
+      "refs": [
+        {
+          "alt": "",
+          "title": ""
+        }
+      ]
     }
   },
   {
     "path": "imgs/d43c80086f1208710fe6ad1052edebfe.webp",
     "context": {
-      "refs": []
+      "refs": [
+        {
+          "alt": "",
+          "title": ""
+        }
+      ]
     }
   },
   {
     "path": "imgs/da93178670edd0044727e0173ed21823.webp",
     "context": {
-      "refs": []
+      "refs": [
+        {
+          "alt": "Finance",
+          "title": ""
+        }
+      ]
     }
   },
   {
     "path": "imgs/e55563b7260a07619c07f342b476c8f5.webp",
     "context": {
-      "refs": []
+      "refs": [
+        {
+          "alt": "AUTOMATED DATA PIPELINES",
+          "title": ""
+        }
+      ]
     }
   },
   {
     "path": "imgs/eaaf03e9e7bbf7af7a17ef9c79510ac6.webp",
     "context": {
-      "refs": []
+      "refs": [
+        {
+          "alt": "",
+          "title": ""
+        }
+      ]
     }
   },
   {
     "path": "imgs/eef02da51d374759409e2ec7d1da538e.webp",
     "context": {
-      "refs": []
+      "refs": [
+        {
+          "alt": "FMCG",
+          "title": ""
+        }
+      ]
     }
   },
   {
     "path": "imgs/fec8b4f25803ee026494e37db1b009d0.webp",
     "context": {
-      "refs": []
+      "refs": [
+        {
+          "alt": "Snowflake Vs Azure Synapse Analytics: The Battle of Cloud Data Warehouses",
+          "title": ""
+        }
+      ]
     }
   },
   {
